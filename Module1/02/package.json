@@ -1,0 +1,15 @@
+ {
+     "dependencies": {
+         "lodash": "^4.17.21"
+     },
+     "name": "02_vishnu",
+     "version": "1.0.0",
+     "description": "testing modules",
+     "main": "module-demo.js",
+     "devDependencies": {},
+     "scripts": {
+         "test": "echo \"Error: no test specified\" && exit 1"
+     },
+     "author": "vishnu",
+     "license": "ISC"
+ }
