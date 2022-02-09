@@ -52,7 +52,7 @@
 
         function load() {
             console.log(message)
-            $.get('http://localhost:3000/messagesLoad', function(data) {
+            $.get('http://localhost:3000/load', function(data) {
                 var message = data;
                 for (x in message) {
                     addMessages(message[x]);
